@@ -9,7 +9,7 @@ public class SinglyLinkedList {
 
 
     public void insert(int data) {
-        ListNode node = new ListNode();  //create new node (in memeory )
+        ListNode node = new ListNode();  //create new node (in memory )
         node.data = data; //user passes in data into parameter and it gets assigned into node.data
         node.next = null; // by default the next object will be null
 
