@@ -35,8 +35,10 @@ public class SinglyLinkedList {
             insertAtStart(data);
         }
         ListNode n = head;
-        for(int i = 0; i< pos-1; i++){
+        int i = 0;
+        while(i< pos-1){
             n = n.next;
+            i++;
         }
         node.next = n.next;
         n.next = node;
@@ -70,6 +72,8 @@ public class SinglyLinkedList {
         slisty.insert(45);
         slisty.insert(60);
         slisty.insertAtStart(25);
+
+        slisty.insertAt(1,77);
 
         slisty.showNodes();
 
