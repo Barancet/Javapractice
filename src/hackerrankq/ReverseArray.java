@@ -12,8 +12,37 @@ public class ReverseArray {
         }
         return ar;
     }
+    
+    
+    
+    public static int[] jonArrayReverse(int[] ar, int n) {
+    	
+    	int[] newarray = new int[n];
+    	int counter = 0;
+    	
+    	for(int i = ar.length-1; i >= 0; i--) {
+    		newarray[counter] = ar[i];
+    		counter++;
+    	}
+    	
+    	
+    	
+    	return newarray;
+    }
 
     public static void main(String[] args){
+    	
+    	
+    	
+    	int[] jonArray = {1,2,3};
+    	
+    	int newArr[] = jonArrayReverse(jonArray, 3);
+    	
+    	
+    	for(int i = 0; i < 3; i++) {
+    		System.out.println(newArr[i]);
+    	}
+    	
 
         int[] testarr = new int[4];
         testarr[0]= 1;
