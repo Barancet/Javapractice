@@ -6,7 +6,7 @@ public class BinMaxCount {
 
     public static void main(String[] args){
 
-        int[] testArr = {1,0,1,1,1,1,1,0,0,1};
+        int[] testArr = {1,0,1,1,1,1,1,1,1,0,0,1};
 
         System.out.println(binaryMaxCons(testArr));
         int a = 10;
@@ -21,7 +21,7 @@ public class BinMaxCount {
 
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] == 1) {
-                countOne += 1;
+                countOne++;
                 max = Math.max(max, countOne);
             } else {
                 countOne = 0;

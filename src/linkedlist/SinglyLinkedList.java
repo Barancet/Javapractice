@@ -55,6 +55,27 @@ public class SinglyLinkedList {
 
     }
 
+    public ListNode reverseList(ListNode head) {
+
+        if(head == null || head.next == null){
+            return head;
+        }
+
+        ListNode prev = null;
+
+        while(head != null){
+            ListNode nextNode = head.next;
+
+            head.next = prev;
+            prev = head;
+            head = nextNode;
+
+        }
+        return prev;
+
+        // 1->  (nextnode)    2->      3->        4->5->NULL
+    }
+
     public void showNodes() {
         ListNode node = head;
 

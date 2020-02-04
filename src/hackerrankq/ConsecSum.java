@@ -3,8 +3,6 @@ package hackerrankq;
 public class ConsecSum {
 
     public static void main(String[] args) {
-
-
         System.out.println(conSum(15));
 
     }
