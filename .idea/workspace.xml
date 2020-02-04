@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f9e37e6-d305-4b83-828d-d436235795ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hackerrankq/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrankq/ArrayProblems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrankq/FirstLastPos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrankq/KsortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrankq/RecursiveProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrankq/SetPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrankq/StringMerger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javapractice/linkedlist/SinglyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javapractice/linkedlist/SinglyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javapractice/hackerrankq/BinMaxCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javapractice/hackerrankq/BinMaxCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javapractice/hackerrankq/ConsecSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javapractice/hackerrankq/ConsecSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javapractice/hackerrankq/ReverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javapractice/hackerrankq/ReverseArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javapractice/hackerrankq/StringPrac.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javapractice/hackerrankq/StringPrac.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrankq/BinMaxCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankq/BinMaxCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrankq/ConsecSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankq/ConsecSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrankq/StringPrac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankq/StringPrac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/SinglyLinkedList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,19 +28,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkedlist/ListNode.java">
+        <entry file="file://$PROJECT_DIR$/src/hackerrankq/FirstLastPos.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="306">
+              <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hackerrankq/ArrayProblems.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1241">
+              <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/linkedlist/SinglyLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+            <state relative-caret-position="504">
+              <caret line="73" column="20" lean-forward="true" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,53 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hackerrankq/StringPrac.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/hackerrankq/ReverseArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hackerrankq/StringTrim.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hackerrankq/BinMaxCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hackerrankq/ConsecSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hackerrankq/DistinctPairs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="266">
+              <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -100,10 +82,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hackerrankq/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/hackerrankq/StringTrim.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <folding>
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,8 +121,16 @@
         <option value="$PROJECT_DIR$/src/linkedlist/Node.java" />
         <option value="$PROJECT_DIR$/src/linkedlist/ListNode.java" />
         <option value="$PROJECT_DIR$/src/differentlinkedlist/LNode.java" />
-        <option value="$PROJECT_DIR$/src/linkedlist/SinglyLinkedList.java" />
         <option value="$PROJECT_DIR$/src/hackerrankq/ReverseArray.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/ConsecSum.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/BinMaxCount.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/StringMerger.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/RecursiveProblem.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/SetPractice.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/FirstLastPos.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/ArrayProblems.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/StringPrac.java" />
+        <option value="$PROJECT_DIR$/src/linkedlist/SinglyLinkedList.java" />
       </list>
     </option>
   </component>
@@ -152,6 +146,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,18 +163,17 @@
               <item name="javapractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="javapractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hackerrankq" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579719693286" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580793630183" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -196,27 +190,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SinglyLinkedList">
-    <configuration name="ConsecSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrankq.ConsecSum" />
-      <module name="javapractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestPalin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrankq.LongestPalin" />
-      <module name="javapractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SinglyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.SinglyLinkedList" />
+  <component name="RunManager" selected="Application.StringPrac">
+    <configuration name="ArrayProblems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrankq.ArrayProblems" />
       <module name="javapractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="hackerrankq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstLastPos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrankq.FirstLastPos" />
+      <module name="javapractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerrankq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursiveProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrankq.RecursiveProblem" />
+      <module name="javapractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerrankq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrankq.SetPractice" />
+      <module name="javapractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerrankq.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,24 +246,23 @@
     <configuration name="StringPrac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hackerrankq.StringPrac" />
       <module name="javapractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringTrim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrankq.StringTrim" />
-      <module name="javapractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerrankq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SinglyLinkedList" />
-        <item itemvalue="Application.ConsecSum" />
-        <item itemvalue="Application.StringTrim" />
-        <item itemvalue="Application.LongestPalin" />
         <item itemvalue="Application.StringPrac" />
+        <item itemvalue="Application.ArrayProblems" />
+        <item itemvalue="Application.FirstLastPos" />
+        <item itemvalue="Application.SetPractice" />
+        <item itemvalue="Application.RecursiveProblem" />
       </list>
     </recent_temporary>
   </component>
@@ -262,10 +280,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1103" height="916" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19175455" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.116204694" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -274,7 +292,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25568798" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25460455" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -282,7 +300,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32822478" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32719395" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32985657" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -296,51 +314,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/SinglyLinkedList.java" />
-    <entry file="file://$PROJECT_DIR$/src/hackerrankq/ConsecSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrankq/DistinctPairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrankq/LongestPalin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrankq/StringTrim.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrankq/BinMaxCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrankq/Tickets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/hackerrankq/Tickets2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -383,13 +356,62 @@
     <entry file="file://$PROJECT_DIR$/out/production/javapractice/hackerrankq/DistinctPairs.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedlist/SinglyLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/RecursiveProblem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+        <state relative-caret-position="408">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/StringMerger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/ReverseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/DistinctPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/Tickets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/KsortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/BinMaxCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/SetPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="65" column="9" lean-forward="true" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -400,17 +422,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrankq/StringPrac.java">
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/FirstLastPos.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrankq/ReverseArray.java">
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/ConsecSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="306">
+          <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/StringPrac.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/LongestPalin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/StringTrim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding>
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/ArrayProblems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedlist/SinglyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="73" column="20" lean-forward="true" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
