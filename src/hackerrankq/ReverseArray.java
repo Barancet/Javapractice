@@ -24,9 +24,6 @@ public class ReverseArray {
     		newarray[counter] = ar[i];
     		counter++;
     	}
-    	
-    	
-    	
     	return newarray;
     }
 

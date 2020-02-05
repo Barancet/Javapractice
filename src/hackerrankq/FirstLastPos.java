@@ -18,14 +18,7 @@ public class FirstLastPos {
         int index = -1;
         int start = 0;
         int end = arr.length-1;
-        //[ 1, 2, 3, 4, 4, 4, 5, 6, 7 ] target 3
-        //end = 8
-        //start = 0
-        //index at 4 is the midpoint element = 4
-        //since target val 3 is less than element 4
-        //we set the new end value = midpoint -1 --essentially chopping off the right side of array
-        //changed end's index to 3 =  element 4
-        //end = 4 start = 3
+
         while(start<=end){
             int midpoint = start + (end - start)/2;
             //left logic
