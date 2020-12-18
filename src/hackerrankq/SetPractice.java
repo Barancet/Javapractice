@@ -5,19 +5,19 @@ import java.util.*;
 public class SetPractice {
 
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         // Create an Array
 
-        int[] nums = {1,2,3,4};
+        int[] nums = {1, 2, 3, 4};
 
-        for(int t = 0; t< nums.length; t++){
+        for (int t = 0; t < nums.length; t++) {
             System.out.println(nums[t]);
         }
 
         reverseArray(nums);
 
-        for(int i = 0; i < nums.length; i++){
+        for (int i = 0; i < nums.length; i++) {
             System.out.println(nums[i]);
         }
 
@@ -34,22 +34,22 @@ public class SetPractice {
 //        }
     }
 
-    public static <T> Set<T> newArr(T a[]){
+    public static <T> Set<T> newArr(T a[]) {
 
         Set<T> newpassedset = new HashSet<>();
 
-        for(T t : a){
+        for (T t : a) {
             newpassedset.add(t);
         }
         return newpassedset;
     }
 
 
-    public static void reverseArray(int[] arr){
+    public static void reverseArray(int[] arr) {
         int start = 0;
-        int end = arr.length-1;
+        int end = arr.length - 1;
 
-        while(start<end){
+        while (start < end) {
             int tmp = arr[start];
             arr[start] = arr[end];
             arr[end] = tmp;
@@ -57,17 +57,16 @@ public class SetPractice {
             end--;
         }
     }
-    public static int reverseInt(int x){
+
+    public static int reverseInt(int x) {
         int rev = 0;
-        while(x !=0 ){
+        while (x != 0) {
             int tempRem = x % 10;
             rev = tempRem + rev * 10;
-            x = x/10;
+            x = x / 10;
         }
         return rev;
     }
-
-
 
 
 }

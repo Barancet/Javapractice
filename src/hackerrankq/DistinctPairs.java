@@ -1,11 +1,10 @@
 package hackerrankq;
 
 public class DistinctPairs {
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
 
     }
-
 
 
 }

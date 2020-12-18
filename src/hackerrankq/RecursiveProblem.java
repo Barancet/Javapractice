@@ -2,7 +2,7 @@ package hackerrankq;
 
 public class RecursiveProblem {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         System.out.println(fibi(6));
 
@@ -11,18 +11,18 @@ public class RecursiveProblem {
     }
 
 
-    static int fibi(int n){
-        if(n == 1 || n == 0)
+    static int fibi(int n) {
+        if (n == 1 || n == 0)
             return n;
         else
-            return fibi(n-2) + fibi(n-1);
+            return fibi(n - 2) + fibi(n - 1);
     }
 
-    static int fact(int n){
-        if(n < 2)
+    static int fact(int n) {
+        if (n < 2)
             return 1;
         else
-            return n * fact(n-1);
+            return n * fact(n - 1);
 
     }
 }

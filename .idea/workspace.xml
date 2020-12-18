@@ -1,11 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d94f6152-7618-402e-a107-25efac0b5033" name="Default Changelist" comment="">
+    <list default="true" id="d94f6152-7618-402e-a107-25efac0b5033" name="Default Changelist" comment="Clean up code - organize commit 1">
+      <change afterPath="$PROJECT_DIR$/src/bytebytecoding/Subarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrankq/BasicArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javapractice/hackerrankq/ArrayProblems.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javapractice/hackerrankq/ArrayProblems.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javapractice/hackerrankq/FirstLastPos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javapractice/hackerrankq/FirstLastPos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javapractice/hackerrankq/ReverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javapractice/hackerrankq/ReverseArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javapractice/linkedlist/SinglyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javapractice/linkedlist/SinglyLinkedList.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hackerrankq/ArrayProblems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankq/ArrayProblems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrankq/BinMaxCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankq/BinMaxCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrankq/ConsecSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankq/ConsecSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrankq/DistinctPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankq/DistinctPairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hackerrankq/FirstLastPos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankq/FirstLastPos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrankq/IntReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankq/IntReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrankq/LongestPalin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankq/LongestPalin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrankq/RecursiveProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankq/RecursiveProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hackerrankq/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankq/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrankq/SetPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankq/SetPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrankq/StringMerger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankq/StringMerger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrankq/StringPrac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankq/StringPrac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrankq/StringTrim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankq/StringTrim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrankq/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankq/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrankq/Tickets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankq/Tickets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrankq/Tickets2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankq/Tickets2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrankq/TwoArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrankq/TwoArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/SinglyLinkedList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,46 +40,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hackerrankq/IntReverse.java">
+        <entry file="file://$PROJECT_DIR$/src/bytebytecoding/Subarray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hackerrankq/TwoArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hackerrankq/StringTrim.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hackerrankq/FirstLastPos.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/hackerrankq/ArrayProblems.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="123" column="8" selection-start-line="123" selection-start-column="8" selection-end-line="123" selection-end-column="8" />
+            <state relative-caret-position="1003">
+              <caret line="65" column="28" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -64,17 +51,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hackerrankq/ReverseArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="-96">
+              <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hackerrankq/SetPractice.java">
+        <entry file="file://$PROJECT_DIR$/src/hackerrankq/ArrayProblems.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-544">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="87">
+              <caret line="98" column="34" selection-start-line="98" selection-start-column="34" selection-end-line="98" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hackerrankq/TwoArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hackerrankq/StringMerger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -82,8 +87,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hackerrankq/StringPrac.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="-83">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hackerrankq/StringTrim.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hackerrankq/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -91,13 +114,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hackerrankq/KsortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -106,23 +141,41 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/src/hackerrankq/ReverseArray.java" />
-        <option value="$PROJECT_DIR$/src/hackerrankq/FirstLastPos.java" />
+        <option value="$PROJECT_DIR$/src/bytebytecoding/Subarray.java" />
+        <option value="$PROJECT_DIR$/src/linkedlist/SinglyLinkedList.java" />
         <option value="$PROJECT_DIR$/src/hackerrankq/ArrayProblems.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/BasicArrays.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/BinMaxCount.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/ConsecSum.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/DistinctPairs.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/FirstLastPos.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/IntReverse.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/LongestPalin.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/RecursiveProblem.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/ReverseArray.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/SetPractice.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/Tickets2.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/Tickets.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/StringMerger.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/StringPrac.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/StringTrim.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/Test.java" />
+        <option value="$PROJECT_DIR$/src/hackerrankq/TwoArray.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1103" />
-    <option name="height" value="916" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="151" />
+    <option name="y" value="70" />
+    <option name="width" value="1423" />
+    <option name="height" value="897" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,29 +186,20 @@
             <path>
               <item name="javapractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="javapractice" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javapractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javapractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javapractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javapractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hackerrankq" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580882258661" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608323912623" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -169,7 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BasicArrays">
     <configuration name="ArrayProblems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hackerrankq.ArrayProblems" />
       <module name="javapractice" />
@@ -183,8 +227,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BasicArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrankq.BasicArrays" />
+      <module name="javapractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerrankq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BasicArrays" />
         <item itemvalue="Application.ArrayProblems" />
       </list>
     </recent_temporary>
@@ -202,11 +260,20 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="151" y="70" width="1423" height="897" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3565664" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -215,15 +282,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32822478" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.32984293" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.38825032" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32984293" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32853404" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -234,6 +301,10 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Clean up code - organize commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clean up code - organize commit 1" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/out/production/javapractice/hackerrankq/ArrayProblems.class">
       <provider selected="true" editor-type-id="text-editor" />
@@ -241,68 +312,237 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrankq/TwoArray.java">
+    <entry file="file://$PROJECT_DIR$/src/linkedlist/SinglyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="563">
+          <caret line="91" column="27" selection-start-line="91" selection-start-column="27" selection-end-line="91" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrankq/StringTrim.java">
+    <entry file="file://$PROJECT_DIR$/src/linkedlist/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrankq/ReverseArray.java">
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/BinMaxCount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        <state relative-caret-position="476">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrankq/SetPractice.java">
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/ConsecSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-544">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="459">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrankq/StringPrac.java">
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/BasicArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="323">
+          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrankq/KsortedArray.java">
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/DistinctPairs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrankq/IntReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hackerrankq/FirstLastPos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        <state relative-caret-position="238">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/IntReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/LongestPalin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/RecursiveProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/SetPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="67" column="19" lean-forward="true" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/Tickets2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/Tickets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/StringMerger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/StringPrac.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-83">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/StringTrim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/KsortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bytebytecoding/Subarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="65" column="28" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/ReverseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hackerrankq/ArrayProblems.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="123" column="8" selection-start-line="123" selection-start-column="8" selection-end-line="123" selection-end-column="8" />
+        <state relative-caret-position="87">
+          <caret line="98" column="34" selection-start-line="98" selection-start-column="34" selection-end-line="98" selection-end-column="34" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrankq/TwoArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javapractice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

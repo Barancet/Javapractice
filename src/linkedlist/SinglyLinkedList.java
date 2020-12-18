@@ -7,7 +7,6 @@ import java.util.List;
 public class SinglyLinkedList {
     ListNode head; //refers to first node which is null initially
 
-
     public void insert(int data) {
         ListNode node = new ListNode();  //create new node (in memory )
         node.data = data; //user passes in data into parameter and it gets assigned into node.data
@@ -49,10 +48,8 @@ public class SinglyLinkedList {
         ListNode node = new ListNode();
         node.data = data;
         node.next = null;
-
         node.next = head;
         head = node;
-
     }
 
     public ListNode reverseList(ListNode head) {
@@ -72,7 +69,6 @@ public class SinglyLinkedList {
 
         }
         return prev;
-
         // 1->  (nextnode)    2->      3->        4->5->NULL
     }
 
@@ -87,16 +83,12 @@ public class SinglyLinkedList {
     }
 
     public static void main(String[] args) {
-
         SinglyLinkedList slisty = new SinglyLinkedList();
         slisty.insert(30);
         slisty.insert(45);
         slisty.insert(60);
         slisty.insertAtStart(25);
-
         slisty.insertAt(1,77);
-
         slisty.showNodes();
-
     }
 }
