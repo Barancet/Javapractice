@@ -4,9 +4,7 @@ public class ConsecSum {
 
     public static void main(String[] args) {
         System.out.println(conSum(15));
-
     }
-
 
     public static int conSum(int targetSum) {
         int numSetCount = 0;

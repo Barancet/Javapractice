@@ -11,7 +11,6 @@ public class SinglyLinkedList {
         ListNode node = new ListNode();  //create new node (in memory )
         node.data = data; //user passes in data into parameter and it gets assigned into node.data
         node.next = null; // by default the next object will be null
-
         //node itself is the head ... if its your first node then head will be null
         if (head == null) {
             head = node;
@@ -57,16 +56,12 @@ public class SinglyLinkedList {
         if(head == null || head.next == null){
             return head;
         }
-
         ListNode prev = null;
-
         while(head != null){
             ListNode nextNode = head.next;
-
             head.next = prev;
             prev = head;
             head = nextNode;
-
         }
         return prev;
         // 1->  (nextnode)    2->      3->        4->5->NULL

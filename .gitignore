@@ -49,4 +49,4 @@ cmake-build-*/
 *.iws
 
 # IntelliJ
-out/
+/out/

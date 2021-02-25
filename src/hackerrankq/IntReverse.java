@@ -5,9 +5,7 @@ public class IntReverse {
     public static void main(String[] args) {
         System.out.println(reverse(
                 341));
-
         System.out.println(Integer.MAX_VALUE);
-
     }
 
     public static int reverse(int x) {
@@ -18,16 +16,12 @@ public class IntReverse {
             return newint;
         } else {
             while (x != 0) {
-
                 int temp = x % 10;
                 x = x / 10;
                 newint = newint * 10 + temp;
             }
-
         }
         return newint;
-
-
     }
 
 }
