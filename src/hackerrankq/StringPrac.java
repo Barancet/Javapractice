@@ -17,10 +17,8 @@ public class StringPrac {
         return sb.toString();
     }
 
-
     public static String reverseAnotherString(String rev) {
         char[] s = rev.toCharArray();
-
         int start = 0;
         int end = rev.length() - 1;
         while (start < end) {

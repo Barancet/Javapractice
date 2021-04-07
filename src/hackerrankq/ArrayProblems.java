@@ -72,7 +72,6 @@ public class ArrayProblems {
     }
 
     //method to rotate array left
-
     public static void rotate(int[] nums, int k) {
         k = k % nums.length;
         int len = nums.length;
@@ -81,7 +80,6 @@ public class ArrayProblems {
         reverseArray(nums, 0, k - 1);
         reverseArray(nums, k, len - 1);
     }
-
 
     public static void reverseArray(int[] nums, int start, int end) {
         while (start < end) {
@@ -107,7 +105,6 @@ public class ArrayProblems {
         }
         return outputArr;
     }
-
 
     public static void main(String[] args) {
 

@@ -1,8 +1,4 @@
-package linkedlist;
-
-import java.util.LinkedList;
-import java.util.List;
-
+package datastructures.linkedlist;
 
 public class SinglyLinkedList {
     ListNode head; //refers to first node which is null initially
@@ -40,7 +36,6 @@ public class SinglyLinkedList {
         }
         node.next = n.next;
         n.next = node;
-
     }
 
     public void insertAtStart(int data){
